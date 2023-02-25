@@ -1,3 +1,10 @@
 body{
     font-family: 'Aboreto', cursive;
 }
+.textoAlineado{
+    word-wrap: break-word; /*Esto es para que la palabra no se salga del cuadro de texto*/
+    /*overflow: y hidden; Esto es para que las palabras restantes se puedan ver con u desplazmiento de barra lateral, no es muy recomendable*/
+}
+h3{
+    font-size: 20px;
+}
